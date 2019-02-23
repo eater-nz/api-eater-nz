@@ -1,0 +1,612 @@
+[ {
+  "name" : "Hungry Head",
+  "address" : {
+    "street" : "Torrens Rd",
+    "number" : "8C",
+    "postCode" : "2013",
+    "suburb" : "Burswood",
+    "district" : "South Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9248846,174.8957215",
+  "tags" : [ "cantonese/hong-kong", "cheapeats", "cheapeats-2019" ],
+  "summary" : "The hustle is real and the menu is vast at Hungry Head, where the chef (ex-Kingston Noodles) is best known for his affordable Hong Kong noodle soups. Bowls of thin, firm egg noodles and distinctly fishy broth come topped with wontons, house-made fish balls or combination beef (innards included). Dine solo on a yellow banquette or come with a crew to secure a table, though they’re often occupied by locals gnawing on pig trotters and other delicacies. Closed Wednesdays."
+}, {
+  "name" : "Kingston Noodles",
+  "address" : {
+    "street" : "Meadowland Dr",
+    "number" : "119",
+    "postCode" : "2014",
+    "suburb" : "Somerville",
+    "district" : "South Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9127018,174.9294354",
+  "tags" : [ "cantonese/hong-kong", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Somerville Shopping Court is an East Auckland adventure where $9 bowls of noodles transport you to a bustling Hong Kong cafe. This is authentic food, cooked for the local Chinese community, including pork knuckles in a lightly spiced pork and fish soup, and braised beef, generous and meltingly tender in a rich broth, to which you add chilli oil pungent with fermented shrimp. Devour with a serving of steamed lettuce in bean curd chilli sauce and a strong milky tea — a hangover of British rule — to wash it down. Cash only."
+}, {
+  "name" : "Mamak Malaysian Street Food",
+  "address" : {
+    "street" : "Huron St",
+    "number" : "6",
+    "postCode" : "0622",
+    "suburb" : "Takapuna",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.7892661,174.7712498",
+  "tags" : [ "malaysian", "vegetarian", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Street-food dishes as good as those found in the open-air hawker centres of Malaysia are served with great enthusiasm here. Favourites include the popular and very pungent Sarawak laksa — a staple of East Malaysian cuisine — as well as smoky char kway teow packed full of seafood, and Hainanese chicken rice with delicately poached chicken and fragrant, moreish rice. Hot, sweetened pulled teas round things off nicely, or go the whole hog and order a Milo Godzilla — a Malaysian iced chocolate topped with vanilla ice cream and Milo powder."
+}, {
+  "name" : "Lake Dumplings",
+  "address" : {
+    "street" : "Lake Rd",
+    "number" : "438",
+    "postCode" : "0622",
+    "suburb" : "Takapuna",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.7899888,174.7731301",
+  "tags" : [ "northern-chinese", "cheapeats", "cheapeats-2019" ],
+  "summary" : "The nine-page menu at this modest spot is filled with meat and vegetable dishes to share, chilli-oil soups and wintry hot pots, but we come here for the namesake dish: the handmade dumplings. There are seven varieties, which come boiled, pan-fried or served in a bowl of sour-and-spicy sauce. We like the “spicy dumplings” option with pork, chives and shrimp, the sauce just enough to coat the smooth skin hiding a parcel of flavoursome filling."
+}, {
+  "name" : "Dumpling Ace",
+  "address" : {
+    "street" : "Pearn Pl",
+    "number" : "39",
+    "postCode" : "0627",
+    "suburb" : "Northcote",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.801208,174.7463385",
+  "tags" : [ "shaanxi", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Start with a plate of grilled cumin lamb skewers, followed by a bowl of the specialty, dao xiao mian: thick, chewy and satisfying hand-shaved noodles. Irregular in length and edges, these are served in spicy-sour soups and healthy herbal broths, topped with chilli oil. (For a non-spicy alternative, try the stir-fried option.) Add a layered spring onion pancake, made from light dough and fried in hot oil until crisp, to break up the intense flavours."
+}, {
+  "name" : "Yue’s Dumpling Kitchen",
+  "address" : {
+    "street" : "Corinthian Dr",
+    "number" : "21",
+    "postCode" : "0632",
+    "suburb" : "Albany",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.73350629999999,174.7110892",
+  "tags" : [ "northern-chinese", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "What sets Yue’s apart is, yes, the dumplings, whose fillings deliver on the menu’s promise: there’s lots of coriander when it says coriander, and lots of celery when it says celery, so the flavours are quite distinct. Dumplings aside, the little specials board near the entrance is worth keeping an eye on — we were recently rewarded with a great slow-cooked chicken dish with mushrooms and vermicelli noodles. And we love their broccoli; a very simple dish, the broccoli is just wok fried with garlic, but it’s perfectly cooked and very fresh."
+}, {
+  "name" : "Ramen Takara",
+  "address" : {
+    "street" : "Anzac Rd",
+    "number" : "4",
+    "postCode" : "0630",
+    "suburb" : "Browns Bay",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.7169365,174.7487009",
+  "tags" : [ "ramen/japanese", "licensed", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Yuki Yamaguchi-Lewin arrived in New Zealand more than a decade ago with a noodle machine in her luggage. She’s still the driving force behind Ramen Takara, making noodle soups to her grandfather’s recipes. We love hearty, pork-based classics such as chashu and tonkotsu ramen, and with rice noodles, vegetarian and gluten-free choices, everyone in the group is covered. The Ponsonby Rd branch is a top pick for an affordable meal nearer the central city."
+}, {
+  "name" : "Yummy Korean BBQ Restaurant",
+  "address" : {
+    "street" : "Mokoia Rd",
+    "number" : "23",
+    "postCode" : "0626",
+    "suburb" : "Birkenhead",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8120911,174.725294",
+  "tags" : [ "korean", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Don’t be fooled by the name — this husband-and-wife-run operation actually specialises in soups, stir fries and stews. We have tried and failed many times to go past the gamjatang, or pork backbone soup — so peppery it’ll knock a cold right out of you (the fish roe and ox bone soups are almost as rewarding). Come summer, chewy, spicy, cold noodles — traditionally served as a side with grilled meat meals but just as good on their own — are a lighter option."
+}, {
+  "name" : "Bi Won Korean",
+  "address" : {
+    "street" : "Link Dr",
+    "number" : "29",
+    "postCode" : "0627",
+    "suburb" : "Wairau Valley",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.7629622,174.7373101",
+  "tags" : [ "korean", "licensed", "byo", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Grab a group of friends to gather around the fiery charcoal cookers and make a night of it, alternating between turning cuts of meat on the hot plate and claiming tangy kimchi and sweet fishcake strips off the communal banchan. Order as much as numbers will allow; our top picks are unmarinated pork belly, sliced marble beef and tender rib, sizzled and quickly dipped in the accompanying sesame oil and salt. Scissors are provided to snip the meats to share, and advice is given freely for first-time barbecuers, as are banchan top-ups."
+}, {
+  "name" : "Namwon Chueotang",
+  "address" : {
+    "street" : "Link Dr",
+    "number" : "20",
+    "postCode" : "0627",
+    "suburb" : "Wairau Valley",
+    "district" : "Northshore",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.7634206,174.7369912",
+  "tags" : [ "korean", "licensed", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Named for the South Korean city of Namwon and its beloved loach (mudfish) soup, chueo-tang is a traditional dish eaten at the start of autumn to keep the cold-weather blues at bay. If the array of hotpot soups here doesn’t appeal, the dolsot-bibimbap hits the table still sizzling. Resist the urge to stir too much and you’ll be rewarded with the extra crunch of scorched rice at the bottom. The kimchi is a side-dish favourite and one of the spiciest in Auckland."
+}, {
+  "name" : "Sha Xian Snack",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "285",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8776718,174.7504783",
+  "tags" : [ "fujian-and-wider-chinese", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Delicacies from Sha County in Fujian are so well regarded that in China, Shaxian Delicacies, a trademarked franchise serving them, has several thousand outlets. This Dominion Rd eatery pays homage to the famous brand, and we can see why Sha County shines a light: the cuisine here covers a good deal of China in variety, from dan dan mian to special soups and lacy fried dumplings. As the name suggests, there’s also a great range of snacky things such as cumin lamb skewers, or spicy-sour potato salad for when you just fancy a nibble."
+}, {
+  "name" : "Shaolin Kung Fu Noodle",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "636",
+    "postCode" : "1041",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.888301,174.7471967",
+  "tags" : [ "henan-style", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Long, hand-pulled noodles tossed with spicy seafood. Flappy, cleaver-cut ones lying half-submerged in restorative soups with interesting floaty bits — goji berries, for example, or Chinese plums, or piled on top of bone-in chicken chunks. This eatery is halal, so there’s no pork on the menu, but it’s a welcome change to eat tender, cumin-braised lamb instead: lumpy, jagged-edged noodles are fried with the meat, tomatoes and onions. It’s not pretty to look at but is, without doubt, one of the most satisfying meals in town."
+}, {
+  "name" : "Tom Yum Eden",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "257",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.876742,174.7505715",
+  "tags" : [ "thai", "vegetarian", "vegan", "licensed", "byo", "cheapeats", "cheapeats-2019" ],
+  "summary" : "You can get a very good som tum salad here, made with actual papaya rather than the carrot substitute so commonly employed. Curries are creamy without overshadowing base notes of expertly made spice pastes and aromatics; they’re also generous on the meat and veg, which we like. Vegetables in stir-fried dishes taste like they’ve just kissed the wok, remaining pleasingly crunchy. The star of the show is thick, salty-sweet-hot beef panang curry, rich with coconut and peanuts and served with sticky rice."
+}, {
+  "name" : "Eden Noodles",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "105",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.87196220000001,174.7521296",
+  "tags" : [ "sichuan", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Queuing is obligatory at this bustling Sichuan gem, and it’s essential to embrace the burn; a heady mix of deeply pungent broths, the unmistakable sensation of Sichuan pepper and thick slicks of fiery chilli oil. The food is exponentially better at traditional (not Europeanised) heat levels, so order extra hot with confidence. Start with favourites like slobbery chicken, dan dan or noodles with spicy beef in soup — be sure to stir before you slurp to relish the high while wiping the sweat from your brow."
+}, {
+  "name" : "Wang Wang Spring Pancake",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "704",
+    "postCode" : "1041",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.89027,174.7465841",
+  "tags" : [ "chinese", "vegetarian", "cheapeats", "cheapeats-2019" ],
+  "summary" : "It’s easy to over-order here, what with the tempting array of meat and vegetable dishes continuously passing by your table on huge hot plates, ready to be stuffed into tissue-thin, cooked-to-order pancakes. Three plates between four is more than enough, and we recommend the following: deeply savoury shredded pork in Peking sauce, spicy-sour shredded potato, and Northern Chinese-style pork and preserved cabbage — akin to sausages and sauerkraut in flavour, it’s wholesome, warming and funky in a good way."
+}, {
+  "name" : "Chongqing Noodles",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "340",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.87905689999999,174.7501929",
+  "tags" : [ "chongqing", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Chongqing was part of China’s Sichuan province until the 90s, so the citrusy tingle of Sichuan pepper, dried chilli, black vinegar and peanuts are hallmarks of its cuisine. This place is adorned with supersized photos of various dishes and there are flasks of complimentary tea. We come here to gorge on tender cold poached chicken in chilli sauce with peanuts and coriander, delicate “hemp” dumplings (a quirk of translation?) in pepper sauce, bright and floral in spite of its heat, and noodles with pickled pepper and ginger duck that reward those who suck flesh from bone, all tamed with a cooling cucumber salad drenched in sesame and vinegar."
+}, {
+  "name" : "Guilin Rice Noodles",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "263",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8768737,174.750523",
+  "tags" : [ "guilin-style-noodles", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Lighter broths than you’ll find elsewhere on Dominion Rd form the base of the noodle dishes here, and extra soup comes on the side so you can add more as you please. The rice noodles are made in-house; they’re perfectly chewy, bouncy and so satisfying when followed quickly by a mouthful of soup and a spoonful of toppings such as peanuts, spring onions, pickled chilli and cow peas. The one-free-refill-on-noodles policy makes already low prices an even better deal. Don’t miss the traditional roast pork."
+}, {
+  "name" : "Zool Zool",
+  "address" : {
+    "street" : "Mount Eden Rd",
+    "number" : "405",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8810307,174.7618407",
+  "tags" : [ "japanese/ramen", "licensed", "vegetarian", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Posher than some other places on this list, Zool Zool is great for a date and when you need something more than plastic tables and unforgiving lighting. There’s a short but strong wine list, beer towers — in case things go south — and the food’s both considered and well executed (hardly a surprise with Kazuya Yamauchi of fine diner Kazuya at the helm). If you find yourself here between Wednesday and Saturday, order the creamy paitan ramen, a gloriously filling chicken-based broth topped with chicken char-shu, spinach, egg and wakame seaweed."
+}, {
+  "name" : "Jolin Shanghai",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "248",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8765505,174.7511018",
+  "tags" : [ "shanghainese", "licensed", "byo", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "This is a fantastic spot for precision-made xiao long bao. Each carefully wrapped parcel contains a nugget of juicy pork mince and a mouthful of hot soup — bite a small hole in the wrapper and let the thermonuclear broth drain onto your spoon before eating, to avoid scalding your mouth. As well as soup dumplings, owner Lei “Kelvin” Zhang likes to recommend his deep-fried sweet and sour blue cod, ideal for larger groups. If dining in a pair, try the eggplant with five toppings — egg, shrimp, pork, parsley and garlic — salty duck and smoked fish noodle soup, or a simple sweet and sour pork chop on rice."
+}, {
+  "name" : "Spicy House",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "555",
+    "postCode" : "1041",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8880324,174.7469939",
+  "tags" : [ "sichuan", "vegetarian", "vegan", "open-late", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Have the Uber driver take a detour to Spicy House on the way home from wherever — they’re open until 4.30am on Fridays and Saturdays and 3am most other days. Head a hangover off at the pass by wolfing down battered, smoky-spicy-sweet chilli mushrooms, sticky braised pork hock, fried chicken gristle with spicy salt, and hot steamed rice. Be sure to consult the specials board on the wall and give the offal a go — the chef here knows what he’s doing with it."
+}, {
+  "name" : "Xi’an Food Bar",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "650",
+    "postCode" : "1024",
+    "suburb" : "Mount Eden",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8888049,174.7470412",
+  "tags" : [ "shaanxi", "vegetarian", "cheapeats", "cheapeats-2019" ],
+  "summary" : "A big bowl of lumpy hand-pulled noodles topped with braised pork is sure to cure a hangover, rainy-day blues, or a work-induced rut. Still great value at $11, Xi’an remains a firm favourite with the Cheap Eats judges, and the local workers who stop by for lunch or dinner. While there’s not much atmosphere, we’ve come to love the Chinese soap operas that are always on the TV. If you’re with vegetarians, point out the garlic-laden veg and chilli oil noodles and the cucumber salad."
+}, {
+  "name" : "Taste in Memory",
+  "address" : {
+    "street" : "New North Rd",
+    "number" : "964",
+    "postCode" : "1025",
+    "suburb" : "Mount Albert",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8851265,174.7147288",
+  "tags" : [ "shanghainese/cantonese", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Open from 8.30am, the setting at this Mt Albert newbie is simple and the silky wontons in refined broth are complex yet comforting enough for breakfast. But we’re here for the xiao long bao — touted by some as the best in Auckland — and at just $8 for six, they are a total steal. Only a limited number of the laboriously hand-pleated parcels are made each day, so go early (or phone to order). Pigs-head dumplings and noodles with preserved vegetables are exemplary, but honestly, everything on the short menu is great. Save room for a white fungus congee. Closed Wednesdays."
+}, {
+  "name" : "Hong Kong Kitchen",
+  "address" : {
+    "street" : "Apirana Ave",
+    "number" : "290",
+    "postCode" : "1072",
+    "suburb" : "Glen Innes",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.879512,174.855443",
+  "tags" : [ "cantonese", "byo", "cheapeats", "cheapeats-2019" ],
+  "summary" : "It’s a basic takeaway-style joint with a faded frontage and only a handful of tables but Hong Kong Kitchen is the place to go for barbecued and roasted meats. Owners Colin and Joanna Ye cook their duck, chicken and pork to crackly yet succulent perfection and you can order one or more on rice, plain or in noodle soup. Open from 11am, the “value lunch special” of won ton or dumpling soup or soup of the day, served with a choice of one of 10 rice meals, is $12."
+}, {
+  "name" : "Tasty Noodle",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "919",
+    "postCode" : "1041",
+    "suburb" : "Mount Roskill",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9006153,174.7425776",
+  "tags" : [ "chinese", "cheapeats", "cheapeats-2019", "taiwanese" ],
+  "summary" : "With booths and blinds reminiscent of Pulp Fiction, this is the perfect place to refuel before stocking your pantry at Tai Ping. There’s a mixture of Chinese cuisines, with the obligatory beef hand-cut-noodle soup in a rewarding broth more subtly spiced than others in town, and gizzards and intestines for the nose-to-tail inclined. Raw shredded potato salad prickling with Sichuan pepper and vinegar is simple yet surprisingly delicious, but the briny, sweet, crunchy, sharp, cold clam chive and onion salad steals the show."
+}, {
+  "name" : "Taiwanese Cuisine Mighty ROC",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "1276",
+    "postCode" : "1041",
+    "suburb" : "Mount Roskill",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.904279,174.7419706",
+  "tags" : [ "taiwanese", "cheapeats", "cheapeats-2019" ],
+  "summary" : "With its floral wallpaper, astroturfed doorway and hipster light fixtures, this cute-as-a-button place is a stark contrast to some of the more spartan spots on Dominion Rd. It serves up simple Taiwanese classics, and all rice meals come with a traditional selection of vegetable side dishes. We like the braised pork belly and the Taiwanese sausage. Elsewhere on the menu, stewed beef noodle soup is rich and warming, and the fried chicken, which is slightly sweetly spiced, is some of the best we’ve had."
+}, {
+  "name" : "Santhiya’s",
+  "address" : {
+    "street" : "Dominion Rd",
+    "number" : "1270",
+    "postCode" : "1041",
+    "suburb" : "Mount Roskill",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9039911,174.7421461",
+  "tags" : [ "malaysian/south-indian", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "The range of light options here makes trying lots of dishes easy. Mee goreng noodles with prawns and chicken have just the right amount of grunt, and the murtabak — lamb and onion stuffed roti — is fatty and crunchy, leaving a saucy slick on the fingers as you dunk chunks into the accompanying dhal or chicken curry. Especially good value are the banana leaf Sunday meals — all you can eat for $18 per person at lunchtime and $20 at night. There’s no booze, so opt for a hot, sweet tea or fresh lime juice instead."
+}, {
+  "name" : "Cafe Abyssinia",
+  "address" : {
+    "street" : "Stoddard Rd",
+    "number" : "190",
+    "postCode" : "1041",
+    "suburb" : "Mount Roskill",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9007154,174.7210431",
+  "tags" : [ "ethiopian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Arrive before you’re ready to eat, because everything is cooked to order by the sole chef, owner Bebeta Asfaw, who also runs the floor. Asfaw is from Ethiopia and in her sparsely decorated restaurant at the rear of a pokey shopping mall, she celebrates her heritage through food. The menu is a short selection of delicately spiced stews and pancakey fermented flatbreads called injera. The tibs — stir-fried beef or lamb served with “miraculous herbal of butter” — is excellent, all sticky and meaty. And you must order doro wat — chicken with lime juice, smoky berbere, slow-cooked onion and hard-boiled egg. Carb-heavy, the food here takes the edge off a cold evening."
+}, {
+  "name" : "Malaysia Noodles & Rice House",
+  "address" : {
+    "street" : "Wolverton St",
+    "number" : "57D",
+    "postCode" : "0600",
+    "suburb" : "Avondale",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9078485,174.697439",
+  "tags" : [ "malaysian", "cheapeats", "cheapeats-2019" ],
+  "summary" : "The service is no-nonsense and the register cash-only, but we will fight for a table at this small and bustling spot to chow down on their smoky char kway teow, one of the best in Auckland. Expect flat rice noodles with moreish pork lard, fried to crunchy, and bursts of salty flavour. Lap cheong (Chinese sausage) lends sweeter bites. A true hawker-style haunt — both in food and ambience — Malaysia Noodles also offers dishes like wat tan hor, curry laksa and the lesser-known Kuala Lumpur-style hokkien mee, served with sambal on the side."
+}, {
+  "name" : "Burger Burger",
+  "address" : {
+    "street" : "Brown St",
+    "number" : "4",
+    "postCode" : "1011",
+    "suburb" : "Ponsonby",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8560651,174.7460699",
+  "tags" : [ "burgers", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Mimi Gilmour Buckley’s empire maintains its position at the top of Auckland’s burger scene with bronzed brioche buns, juicy patties, fries of every size, onion rings showered in parmesan, and butter-laden charred broccoli. The young staff are fun and fast, slinging cocktails and decadent shakes blended with Duck Island ice cream. Health-conscious options include more-salad-less-burger choices “balad” and “bunnuce”. Meat is free-range."
+}, {
+  "name" : "TianFu Noodles",
+  "address" : {
+    "street" : "Khyber Pass Rd",
+    "number" : "477",
+    "postCode" : "1023",
+    "suburb" : "Newmarket",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.867543,174.7769955",
+  "tags" : [ "sichuan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "You might be rightly dazzled by the noodle options here, which range from wheat to shaved to rice to kumara, but don’t dismiss the dumplings. Our favourite? Pork and chive in chicken soup: no fewer than 20 swimming in an enormous steaming bowl of clear flavoursome liquid — a steal at 12 bucks. Offal eaters will relish the choice of pigs’ tongues and ears, chicken gizzards and ox tripe. Popular with students and solo workers on the run, the simple white and grey space is warmed by affable service. Our new go-to for a quick bite before a movie around the corner."
+}, {
+  "name" : "Selera",
+  "address" : {
+    "street" : "Khyber Pass Rd",
+    "number" : "487",
+    "postCode" : "1023",
+    "suburb" : "Newmarket",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8676629,174.7772684",
+  "tags" : [ "malaysian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Lunchtime is the best time to grab a bowl of Selera’s much-hyped curry laksa, when the fragrant spice paste that forms the base of the soup is at its punchiest. Squid, fish balls, juicy prawns and egg noodles bob in the depths. At night, go for slightly sweet and rather rich nasi lemak beef rendang, cooked all day and falling apart at the touch of a fork. It’s served with the requisite skin-on peanuts, cucumber, egg, coconut rice, and dried anchovies."
+}, {
+  "name" : "BBQ Duck Cafe",
+  "address" : {
+    "street" : "Queen St",
+    "number" : "350",
+    "postCode" : "1010",
+    "suburb" : "Auckland CBD",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8520239,174.7644089",
+  "tags" : [ "cantonese", "licensed", "byo", "open-late", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Its BYO licence, big tables and close proximity to midtown’s theatres and downtown’s lively bars make BBQ Duck a group dinner dream. Roasted and barbecued meats hang from hooks in the kitchen window and you order them half or whole; if dining solo, go for what the menu describes as the “best choice” — one or two of these juicy meats on rice. In a larger group, whole Peking duck with pancakes, savoury hoisin and shredded spring onion and cucumber is a crowd pleaser. Deep-fried spicy chicken, green beans with pork mince, and wonton noodle soup are also recommended."
+}, {
+  "name" : "Uncle Man’s",
+  "address" : {
+    "street" : "Karangahape Rd",
+    "number" : "277",
+    "postCode" : "1010",
+    "suburb" : "Auckland CBD",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8574205,174.7581563",
+  "tags" : [ "malaysian", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "It’s hard to go past the roti canai at this family-run outfit; buttery rounds are made fresh out front of the kitchen to whet your appetite. Whether you choose dahl, chicken curry or beef rendang on the side, you won’t be disappointed. If you can forgo the roti, Malay staples such as nasi lemak, mee goreng and Nyonya curry laksa are excellent, too. It’s no surprise this place has become a K’ Rd favourite, expanding into a second dining room this year — perfect for larger groups."
+}, {
+  "name" : "BannSang",
+  "address" : {
+    "street" : "High St",
+    "number" : "47",
+    "postCode" : "1010",
+    "suburb" : "Auckland CBD",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8481246,174.7662765",
+  "tags" : [ "korean", "licensed", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Get in, eat, get out is the vibe at this nonetheless friendly Korean restaurant. Good luck getting a table at weekday lunchtimes when hordes of workers from nearby offices drop in for soups served in cauldron-like pots, spicy gochujang-laden stir fries and crisply fried kimchi or seafood pancakes. Each comes served on a tray, most with steamed rice and four side dishes, or banchan, of which the kimchi and pickled daikon are particularly good. We also love the tteokbokki — chewy rice cakes and slivers of fish sausage served in a slightly sweet and very spicy sauce."
+}, {
+  "name" : "Try it Out",
+  "address" : {
+    "street" : "Atkinson Ave",
+    "number" : "79",
+    "postCode" : "1062",
+    "suburb" : "Otahuhu",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9411388,174.843547",
+  "tags" : [ "vietnamese", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : null
+}, {
+  "name" : "Happy Cafe",
+  "address" : {
+    "street" : "Manukau Rd",
+    "number" : "697",
+    "postCode" : "1023",
+    "suburb" : "Royal Oak",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9106536,174.7753177",
+  "tags" : [ "cantonese", "byo", "cheapeats", "cheapeats-2019" ],
+  "summary" : "We may have found the benchmark for barbecue pork won ton noodle soup. Happy’s features a broth spiked with plenty of white pepper, extra-thin egg noodles, soft strips of cabbage, and fat won tons stuffed with both pork mince and juicy prawns and, the masterstroke, honeyed barbecue pork. The rest of the Cantonese-style menu is very good, too — if a little unfriendly to vegetarians — keeping local workers well fed with barbecued and roasted meats on rice, warming casseroles and plenty of change from a twenty."
+}, {
+  "name" : "Chi Chi Kitchen",
+  "address" : {
+    "street" : "Rawhiti Rd",
+    "number" : "1c",
+    "postCode" : "1061",
+    "suburb" : "Onehunga",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9094875,174.799012",
+  "tags" : [ "vietnamese", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "At Chi Chi you can get a brilliant, rare Angus beef pho with a welcome smattering of fresh herbs. In the open kitchen, a formidable mother/son duo whip up versions of fragrant Vietnamese street food. Nem lui (pork mince) is skewered on lemongrass stalks, and at $9, their take on a Hanoi banh mi comes with all the trimmings, in a crackingly good baguette. Tubs of chilli-garlic pickle adorn the three inside tables, set against photos of Hoi An street scenes and countryside."
+}, {
+  "name" : "Ramen Do",
+  "address" : {
+    "street" : "Symonds St",
+    "number" : "167",
+    "postCode" : "1010",
+    "suburb" : "Eden Terrace",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8625591,174.7611179",
+  "tags" : [ "ramen", "licensed", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Noodles made in-house swimming in broths simmered for days, topped with slices of perfectly roasted pork — this is where you come to feed your soul. Shrimp-flavoured spicy miso and the umami bomb gyokai also keep us coming back. There are many places for ramen in Auckland, but this humble owner-operated restaurant, which started with little more than a few outdoor tables, is hard to go past."
+}, {
+  "name" : "Tianze Dumpling House",
+  "address" : {
+    "street" : "Sandringham Rd",
+    "number" : "695",
+    "postCode" : "1041",
+    "suburb" : "Sandringham",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8972936,174.7330459",
+  "tags" : [ "northern-chinese", "byo", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "We could wax lyrical about chef/owner Levi Sun’s fried chicken in hot chilli sauce — crunchy boneless chunks dressed with a fearsome amount of dried chilli — but there are many other scrumptious fried things here, too. Sizzling eggplant stuffed with pork is bound in a light batter and comes drizzled with a thick savoury sauce, or try the crispy squid tentacles with spicy salt. If you want to skip the fried stuff, go for mapo tofu on rice, Sichuan noodles, or dumplings."
+}, {
+  "name" : "Mumbai Chaat",
+  "address" : {
+    "street" : "Kitchener Rd",
+    "number" : "1",
+    "postCode" : "1025",
+    "suburb" : "Sandringham",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8916603,174.7357303",
+  "tags" : [ "south-indian-chaat", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Accommodating vegan friends or family at some restaurants can be challenging but Mumbai Chaat offers an oasis with a masala punch, albeit one that can bamboozle a first-timer. A respectful demeanour is rewarded with warm advice from the counter and a readiness to veganise almost everything. An assortment of puri and vada pav — a fiery potato patty in a soft bun — is compulsory. You can also walk the streets of South India with idli and dosa. Be sure to order freshly brewed masala tea — it’ll take time, but it’s the real deal."
+}, {
+  "name" : "7 Siri Taste Sri Lanka",
+  "address" : {
+    "street" : "Sandringham Rd",
+    "number" : "580",
+    "postCode" : "1025",
+    "suburb" : "Sandringham",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.892201,174.736477",
+  "tags" : [ "sri-lankan", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "We’re not spoilt for choice with Sri Lankan restaurants in Auckland, so it’s just as well this stalwart does a great job. Go for dishes like string hoppers, used to mop up curries of chicken and mutton and spicy coconut-laden sambal, and lumprice, a selection of rice, curries, grilled chicken and sambal wrapped in banana leaf. Their kottu roti features tissue-thin roti — an art in itself to make — chopped into pieces and fried with mutton, vegetables, curry leaves and spices."
+}, {
+  "name" : "Paradise Indian Food",
+  "address" : {
+    "street" : "Sandringham Rd",
+    "number" : "591",
+    "postCode" : "1025",
+    "suburb" : "Sandringham",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8929447,174.7363306",
+  "tags" : [ "mughlai", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "While we love the dum biryanis and tandoor-cooked meats, there are plenty of other delights on the long Mughlai menu, like made-to-order malai kofta — paneer-based dumplings in creamy cashew gravy. Try the spicier, tomato-based kadai chicken or any of the special curries that come garnished with hard boiled eggs. Can’t choose? Head around the corner to join the queue at the Kitchener Rd branch, where an all-you-can-eat buffet has up to 17 dishes each night ($18 per person Monday to Wednesday, $20 Thursday to Sunday)."
+}, {
+  "name" : "Jai Jalaram Khaman",
+  "address" : {
+    "street" : "Boundary Rd",
+    "number" : "39",
+    "postCode" : "0600",
+    "suburb" : "Blockhouse Bay",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.91390519999999,174.7159447",
+  "tags" : [ "gujarati", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "An unassuming little place on the edge of Blockhouse Bay where the seating is basic and the cutlery is plastic, but they’ve been serving up some of the best Gujarati food in Auckland since 2006. Staff are happy to make recommendations but most diners order pau bhaji — three soft, white, masala bread buns to dip into a smooth and rich potato, tomato and pea curry. The short menu is entirely vegetarian; most dishes can be made vegan. Owner Hitesh Thakkar proudly proclaims no colouring, milk, or cream is used in any of the food."
+}, {
+  "name" : "Noodle Heaven",
+  "address" : {
+    "street" : "Great North Rd",
+    "number" : "3114",
+    "postCode" : "0600",
+    "suburb" : "New Lynn",
+    "district" : "West Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9092358,174.6789713",
+  "tags" : [ "sichuan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "You’ll find Noodle Heaven in an old roast takeaway joint in New Lynn. They’ve squeezed in a few tables and some bar stools and now, rather than spuds and gravy at the counter, house-made lap cheong (Chinese cured sausages) hang from wires behind the till and bundles of freshly made noodles rest under tea towels. As is typical for Sichuan cuisine, the food is spicy, but many dishes have a distinct lightness to them. Even bowls of beef stew noodles seem delicate and fresh. The lack of an online presence makes it impossible to browse the menu before you visit, so trust us and order the dan dan noodles, which are meaty and moreish and $9 a serve."
+}, {
+  "name" : "The Noodle House",
+  "address" : {
+    "street" : "Great North Rd",
+    "number" : "3110",
+    "postCode" : "0600",
+    "suburb" : "New Lynn",
+    "district" : "West Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9092163,174.6790868",
+  "tags" : [ "malaysian-rice-and-noodles", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Malaysian noodle dishes — in soups or dry — take centre stage at this bare-bones eatery on a busy stretch of Great North Rd. The owners are from Ipoh, so try the regional specialty of chicken rice with bean sprouts, but also make room for Penang-style dishes like assam laksa and prawn noodle soup. Many Malaysian restaurants are geared towards sharing larger dishes so are a tad too pricey to be included in this list, but The Noodle House, with its narrower focus and dishes sized perfectly for solo diners (perfectly shareable, too, if you like), comes in at the cheaper end of the list."
+}, {
+  "name" : "Mr Zhou’s Dumplings",
+  "address" : {
+    "street" : "Great North Rd",
+    "number" : "3130",
+    "postCode" : "0600",
+    "suburb" : "New Lynn",
+    "district" : "West Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.9091739,174.678517",
+  "tags" : [ "northern-chinese", "vegetarian", "vegan", "cheapeats", "cheapeats-2019" ],
+  "summary" : "Mr Zhou’s is still the yardstick for a good dumpling in this city and with more than 20 flavours to choose from, you might have a tough time choosing. We’re keen on the punchy pork and fennel and, for non-meat eaters, vegetarian dumplings with waxy cashew nuts. If you’re tossing up between boiled, steamed or fried, half and half is an option. Throw in a chilli-soaked sliced dried tofu and cucumber salad and a spring onion pancake or two and leave satisfied. The Mt Eden branch is licensed and BYO if you want a beer to wash it all down."
+}, {
+  "name" : "Jomaru Korean Restaurant",
+  "address" : {
+    "street" : "Paramount Dr",
+    "number" : "42",
+    "postCode" : "0610",
+    "suburb" : "Henderson",
+    "district" : "West Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8553073,174.6309688",
+  "tags" : [ "korean", "licensed", "cheapeats", "cheapeats-2019" ],
+  "summary" : "In this hidden corner of Henderson, you’ll be greeted like family and eat like kings. The restaurant is home to excellent versions of Korean favourites like jeyuk (pork stir-fry) and kimchi stew, but go for the pork backbone soup: a complex concoction flavoured with soybean paste and topped with perilla powder. Pick up the pork pieces and suck out tender meat down to the bone; to not miss a drop, scoop a few spoonfuls of rice into your soup and slurp it up together."
+} ]
