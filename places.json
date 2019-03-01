@@ -2,10 +2,10 @@
   "name" : "Dragonfired Pizza",
   "address" : {
     "street" : "Goodwin Ave",
-    "number" : null,
+    "number" : "1",
     "postCode" : "1081",
     "suburb" : "Oneroa",
-    "district" : null,
+    "district" : "Waiheke",
     "city" : "Auckland"
   },
   "latlng" : "-36.7850428,175.0188593",
