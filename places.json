@@ -1147,19 +1147,6 @@
   "address" : {
     "street" : "Kitchener Rd",
     "number" : "1",
-    "postCode" : "1025",
-    "suburb" : "Sandringham",
-    "district" : "Central Auckland",
-    "city" : "Auckland"
-  },
-  "latlng" : "-36.8916603,174.7357303",
-  "tags" : [ "cheapeats-2014", "cheapeats-2015", "cheapeats-2016", "cheapeats-2019", "indian", "south-indian-chaat", "vegan", "vegetarian" ],
-  "summary" : "Delicious Indian vegetarian snack food and curries, and dahi puris that are among the best in town. The menu needs translating but the friendly owner is happy to oblige. Carrot halva is divine — have it warmed for maximum flavour."
-}, {
-  "name" : "Mumbai Chaat",
-  "address" : {
-    "street" : "Kitchener Rd",
-    "number" : "1",
     "postCode" : "0622",
     "suburb" : "Takapuna",
     "district" : "Northshore",
@@ -1168,6 +1155,19 @@
   "latlng" : "-36.7764613,174.7758815",
   "tags" : [ "cheapeats-2018", "south-indian", "vegan", "vegetarian" ],
   "summary" : "Across India, day and night, vendors sell chaat out of hole-in-the-wall operations and from street trolleys. Fond memories of the spicy snacks of their homeland have informed the menu at Mumbai Chaat, where husband-and-wife team Ajit and Pratibha Ambani replicate a taste of southern India in Sandringham. Everything is made from scratch and whether you're in for a full meal or morning tea, the bill should come in at under $15 a head."
+}, {
+  "name" : "Mumbai Chaat",
+  "address" : {
+    "street" : "Kitchener Rd",
+    "number" : "1",
+    "postCode" : "1025",
+    "suburb" : "Sandringham",
+    "district" : "Central Auckland",
+    "city" : "Auckland"
+  },
+  "latlng" : "-36.8916603,174.7357303",
+  "tags" : [ "cheapeats-2014", "cheapeats-2015", "cheapeats-2016", "cheapeats-2019", "indian", "south-indian-chaat", "vegan", "vegetarian" ],
+  "summary" : "Delicious Indian vegetarian snack food and curries, and dahi puris that are among the best in town. The menu needs translating but the friendly owner is happy to oblige. Carrot halva is divine — have it warmed for maximum flavour."
 }, {
   "name" : "Namwon Chueotang",
   "address" : {
@@ -1426,7 +1426,7 @@
     "city" : "Auckland"
   },
   "latlng" : "-36.7169365,174.7487009",
-  "tags" : [ "cheapeats-2014", "cheapeats-2015", "cheapeats-2016", "cheapeats-2018", "cheapeats-2019", "japanese", "japanese-top-10", "licensed", "ramen", "vegan", "vegetarian" ],
+  "tags" : [ "cheapeats-2014", "cheapeats-2015", "cheapeats-2016", "cheapeats-2018", "cheapeats-2019", "japanese", "licensed", "ramen", "vegan", "vegetarian" ],
   "summary" : "Auckland’s got a lot of ramen bars, but true  connoisseurs should head to Browns Bay for heady broths full of flavour. We’re particularly fond of the tonkotsu ramen — flavoursome pork without the fatty aftertaste. Comfort in a bowl."
 }, {
   "name" : "Ras Vatika",
