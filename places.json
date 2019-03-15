@@ -1156,19 +1156,6 @@
   "tags" : [ "cheapeats-2014", "cheapeats-2015", "cheapeats-2016", "cheapeats-2018", "cheapeats-2019", "south-indian", "vegan", "vegetarian" ],
   "summary" : "Delicious Indian vegetarian snack food and curries, and dahi puris that are among the best in town. The menu needs translating but the friendly owner is happy to oblige. Carrot halva is divine — have it warmed for maximum flavour."
 }, {
-  "name" : "Mumbai Chaat",
-  "address" : {
-    "street" : "Kitchener Rd",
-    "number" : "1",
-    "postCode" : "0622",
-    "suburb" : "Takapuna",
-    "district" : "Northshore",
-    "city" : "Auckland"
-  },
-  "latlng" : "-36.7764613,174.7758815",
-  "tags" : [ "cheapeats-2018", "south-indian", "vegan", "vegetarian" ],
-  "summary" : "Across India, day and night, vendors sell chaat out of hole-in-the-wall operations and from street trolleys. Fond memories of the spicy snacks of their homeland have informed the menu at Mumbai Chaat, where husband-and-wife team Ajit and Pratibha Ambani replicate a taste of southern India in Sandringham. Everything is made from scratch and whether you're in for a full meal or morning tea, the bill should come in at under $15 a head."
-}, {
   "name" : "Namwon Chueotang",
   "address" : {
     "street" : "Link Dr",
